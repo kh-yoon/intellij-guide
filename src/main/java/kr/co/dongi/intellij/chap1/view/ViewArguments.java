@@ -32,7 +32,6 @@ public class ViewArguments {
         System.out.println(x);
         System.out.println(x);
         System.out.println(x);
-
         return "1";
     }
 
